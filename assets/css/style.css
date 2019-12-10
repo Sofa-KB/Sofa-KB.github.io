@@ -3,14 +3,25 @@ h1 {
     color: #eeeeee;
 }
 
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
 #navWrapper {
 
 }
 
-#bodyWrapper {
+.bodyWrapper {
     min-height: 100%;
     margin-bottom: -50px;
+    background-image: url(../images/background.jpg);
+}
+
+.footer {
+    background-color: #008080;
+    text-align: center;
+    color: #eeeeee;
+    margin-top: 20px;
 }
 
 .footer, .push {
