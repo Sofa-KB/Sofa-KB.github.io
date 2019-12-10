@@ -5,10 +5,12 @@ h1 {
 
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 #navWrapper {
-
+    overflow: hidden;
 }
 
 .bodyWrapper {
@@ -32,14 +34,3 @@ body {
     float: right;
 }
 
-.index {
-
-}
-
-.contact{
-
-}
-
-.portfolio{
-
-}
