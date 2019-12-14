@@ -1,7 +1,10 @@
-# Homework Activity for 12-5-19
+# Homework 12/14/19
 
-This project is a professional portfolio site, developed in HTML/CSS, for the UCF Coding Bootcamp.
+## Week One Homework HTML/CSS
 
-## 
+### Pages:
+* About Me
+* Portfolio
+* Contact
 
 
